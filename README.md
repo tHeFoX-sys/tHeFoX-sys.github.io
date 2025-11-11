@@ -1,2 +1,2 @@
-# THe_FoX_Sys
+# tHeFoX-sys.github.io
 My abilities
