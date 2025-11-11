@@ -1,0 +1,43 @@
+body{
+    background-color: #050808;
+}
+    .icon {
+        margin-bottom: 50px;
+        margin-left: 875px;
+        width: 170px;
+        height: 170px;
+        border-radius: 76%;
+        object-fit: cover;
+        border: 5px solid #ccc;  
+    }
+  h2.name{
+    font-size: 2.5em;
+    text-align: center;
+    color: cornsilk;
+  }
+  div.text{
+    font-family: Verdana;
+    font-size: 1.55em;
+    color: cornsilk;
+
+  }
+  h3.header{
+    font-size: 2.5em;
+    text-align: center;
+    color: cornsilk;
+  }
+  h2.github{
+  color: cornsilk;
+  font-size:2.2;
+  }
+  a.profile{
+  text-decoration:none;
+  color:cornsilk;
+  font-size:2.2;
+  }
+  a.profile:hover{
+  color:burlywood;
+  }
+
+
+
