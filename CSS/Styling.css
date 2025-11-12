@@ -5,7 +5,6 @@ body{
         align-items:top;
         display:flex;
         justify-content:center;
-        align-items:top;
         width: 175px;
         height: 125px;
         border-radius: 55%;
@@ -40,6 +39,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
