@@ -4,10 +4,10 @@ body{
     .icon {
         align-items:center;
         display:flex;
-        justify-content:center;
+        justify-content:top;
         width: 175px;
         height: 145px;
-        border-radius: 25%;
+        border-radius: 70%;
         object-fit: cover;
         border: 5px solid #ccc;  
     }
@@ -39,6 +39,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
