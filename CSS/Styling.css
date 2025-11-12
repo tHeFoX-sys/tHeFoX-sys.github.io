@@ -2,13 +2,12 @@ body{
     background-color: #050808;
 }
     .icon {
-        margin-left:120px;
         align-items:top;
         display:flex;
         justify-content:center;
         align-items:top;
-        width: 170px;
-        height: 170px;
+        width: 175px;
+        height: 135px;
         border-radius: 40%;
         object-fit: cover;
         border: 5px solid #ccc;  
@@ -41,6 +40,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
