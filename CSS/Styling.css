@@ -2,9 +2,10 @@ body{
     background-color: #050808;
 }
     .icon {
+        position:absolute;
         align-items:center;
         display:flex;
-        justify-content:top;
+        justify-content:center;
         width: 125px;
         height: 100px;
         border-radius: 70%;
@@ -39,6 +40,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
