@@ -2,6 +2,7 @@ body{
     background-color: #050808;
 }
     .icon {
+        align:center;
         align-items:top;
         display:flex;
         justify-content:center;
@@ -40,6 +41,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
