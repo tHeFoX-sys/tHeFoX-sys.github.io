@@ -4,7 +4,7 @@ body{
     .icon {
         display:flex;
         justify-content:center;
-        align-items:top;
+        align-items:center;
         width: 25%;
         height: 15%;
         border-radius: 60%;
@@ -39,6 +39,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
