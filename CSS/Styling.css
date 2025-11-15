@@ -39,9 +39,10 @@ body{
   a.profile:hover{
   color:burlywood;
   }
-  h2.owned{
+  h2#owned{
   color:cornsilk;
   }
+
 
 
 
