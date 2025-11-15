@@ -7,7 +7,7 @@ body{
         align-items:top;
         width: 25%;
         height: 15%;
-        border-radius: 65%;
+        border-radius: 60%;
         object-fit: cover;
         border: 5px solid; 
     }
@@ -39,6 +39,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
