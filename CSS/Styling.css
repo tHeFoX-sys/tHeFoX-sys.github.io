@@ -19,7 +19,8 @@ body{
   }
   div.text{
     font-family: Verdana;
-    font-size: 1.55em;
+    font-size: 1.5em;
+    text-align:left;
     color: cornsilk;
 
   }
@@ -40,6 +41,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
