@@ -1,4 +1,5 @@
 let angle = 0;
+
   const h2 = document.getElementById().getContent("iconic");
 
   setInterval(() => {
@@ -6,6 +7,7 @@ let angle = 0;
     h2.style.transform = `rotate(${angle}deg)`;
 
   }, 16);
+
 
 
 
