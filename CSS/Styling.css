@@ -27,7 +27,7 @@ body{
     color: cornsilk;
     
   }
-  h4.rotate{
+  div.rotate{
     color: cornsilk;
     transform:translate;
     display:flex;
@@ -53,6 +53,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
