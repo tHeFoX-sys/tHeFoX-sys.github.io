@@ -12,6 +12,15 @@ body{
         border: 5px solid; 
         transition:transform 1.2s
     }
+  h2#r{
+  
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    transform:transition 1.2s;
+    color: cornsilk;
+  }
+
   h2.name{
     font-size: 2.5em;
     text-align: center;
@@ -26,13 +35,6 @@ body{
     text-align:left;
     color: cornsilk;
     
-  }
-  h2#r{
-    color: cornsilk;
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    transform:transition 1.2s;
   }
 
   h3.header{
@@ -52,6 +54,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
