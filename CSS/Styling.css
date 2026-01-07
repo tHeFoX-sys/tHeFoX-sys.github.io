@@ -10,10 +10,10 @@ body{
         border-radius: 60%;
         object-fit: cover;
         border: 5px solid; 
-        transition:transform 1.2s
+        transition:transform 0.5s
+        transform:rotate(360deg);
     }
-  h2#r{
-  
+  h2.r{
     display:flex;
     align-items:center;
     justify-content:center;
@@ -42,9 +42,13 @@ body{
     text-align: center;
     color: cornsilk;
   }
+
   h2.github{
   color: cornsilk;
   font-size:2.2;
+  display:flex;
+  align-items:center;
+  justify-content:center;    
   }
   a.profile{
   text-decoration:none;
@@ -54,6 +58,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
