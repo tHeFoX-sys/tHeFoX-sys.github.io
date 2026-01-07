@@ -3,7 +3,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const h4 = document.getElementById(".rotate#r");
   if (!h4) return; // element not found
 
-  // Make sure the element can be transformed (inline elements won't rotate as expected)
   if (getComputedStyle(h4).display === 'inline') {
     h4.style.display = 'inline-block';
   }
@@ -17,4 +16,5 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   requestAnimationFrame(tick);
+
 });
