@@ -24,7 +24,7 @@ body{
     color: cornsilk;
     
   }
-    div.text#sys{
+  h4#sys{
     transition:transform 1.5s;
   }
 
@@ -45,6 +45,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
