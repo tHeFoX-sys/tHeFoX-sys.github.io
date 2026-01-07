@@ -27,15 +27,14 @@ body{
     color: cornsilk;
     
   }
-  h4#sys{
+  .rotate{
     text-align:center;
     color: cornsilk;
     transition:transform 1.5s;
     display:flex;
     align-items:center;
     justify-content:center;
-    transform:rotate();
-      
+    transform:rotate();    
   }
 
   h3.header{
@@ -55,6 +54,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
