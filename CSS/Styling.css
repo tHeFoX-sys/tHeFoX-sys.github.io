@@ -30,7 +30,7 @@ body{
   div.rotate{
     color: cornsilk;
     transition:transform 2s ease;
-    transform:translate(); 
+    transform:rotate(0,25turn);
     display:flex;
     align-items:center;
     justify-content:center;
@@ -54,6 +54,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
