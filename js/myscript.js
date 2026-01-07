@@ -3,7 +3,8 @@ let angle = 0;
 
   setInterval(() => {
     while(1===1){
-    angle += 1; // degrees per frame
+    angle += 2; // degrees per frame
     h2.style.transform = `rotate(${angle}deg)`;
     };
   }, 16);
+
