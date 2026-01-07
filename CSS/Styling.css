@@ -28,9 +28,8 @@ body{
     
   }
   div.rotate{
-    text-align:center;
     color: cornsilk;
-    transition:transform 1.5s;
+    transition:transform 2s ease;
     display:flex;
     align-items:center;
     justify-content:center;
@@ -54,6 +53,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
