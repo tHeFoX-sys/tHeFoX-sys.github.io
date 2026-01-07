@@ -24,10 +24,14 @@ body{
     color: cornsilk;
     
   }
-  h4#sys{
+  p#sys{
     text-align:center;
     color: cornsilk;
     transition:transform 1.5s;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+      
   }
 
   h3.header{
@@ -47,6 +51,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
