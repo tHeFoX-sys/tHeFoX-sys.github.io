@@ -1,7 +1,7 @@
 body{
     background-color: #050808;
 }
-    .icon {
+    #iconic {
         display:flex;
         justify-content:center;
         align-items:center;
@@ -10,7 +10,7 @@ body{
         border-radius: 60%;
         object-fit: cover;
         border: 5px solid; 
-        transition:transform 1.2s;
+        transition:transform 1.2s
     }
   h2.name{
     font-size: 2.5em;
@@ -52,6 +52,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
