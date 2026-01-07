@@ -1,4 +1,4 @@
-const f = document.getElementById(".rotate#r");
+const f = document.getElementById("h4.rotate#r");
 
   setInterval(() => {
     let angle = 0;
@@ -7,6 +7,7 @@ const f = document.getElementById(".rotate#r");
     f.style.transform = `rotate(${angle}deg)`;
     }
   };
+
 
 
 
