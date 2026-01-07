@@ -27,13 +27,12 @@ body{
     color: cornsilk;
     
   }
-  div.rotate{
+  h2#r{
     color: cornsilk;
-    transform:translate;
     display:flex;
     align-items:center;
     justify-content:center;
-       
+    transform:transition 1.2s;
   }
 
   h3.header{
