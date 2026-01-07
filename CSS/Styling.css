@@ -30,10 +30,11 @@ body{
   div.rotate{
     color: cornsilk;
     transition:transform 2s ease;
+    transform:translate(); 
     display:flex;
     align-items:center;
     justify-content:center;
-    transform:rotate();    
+       
   }
 
   h3.header{
@@ -53,6 +54,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
