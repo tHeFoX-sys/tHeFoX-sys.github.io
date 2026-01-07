@@ -5,6 +5,7 @@ let angle = 0;
     while(1===1){
     angle += 2; // degrees per frame
     h2.style.transform = `rotate(${angle}deg)`;
-    };
+    }
   }, 16);
+
 
