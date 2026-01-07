@@ -27,7 +27,7 @@ body{
     color: cornsilk;
     
   }
-  .rotate{
+  .rotate#r{
     color: cornsilk;
     transition:transform 2s ease;
     transform:translate;
@@ -54,6 +54,7 @@ body{
   a.profile:hover{
   color:burlywood;
   }
+
 
 
 
